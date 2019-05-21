@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Wenguang Wang’s Homepage
 
-You can use the [editor on GitHub](https://github.com/wang-wg/wang-wg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I’m Wenguang Wang, a Master in the Institute of Computer Science & Technology of Peking University ([ICST](http://www.icst.pku.edu.cn/)), also a member of Character Shape Computing Lab ([CSCL](http://59.108.48.27/cscl/)).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+  Master:   2017.09-2020.07   Peking University   Computer Science
+  
+  Bachelor: 2013.09-2017.07   Sichuan University  Electronic Engineering
+### Skills
+  Skilled at c++, python, matlab, tensorflow.
+  
+  Familiar with machine learning and deep learning algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Project Experience
 
-```markdown
-Syntax highlighted code block
+Chinese Stroke Extraction by Semantic Segmentation and Tabu Search
+Task: stroke extraction of Chinese character.
+Two improvements in original semantic segmentation models (Such as DeepLab v1, v3+):
+Stroke list module: guide the model by priori information like stroke count.
+Inference module: replace the background channel by binary images of the characters.
+Use tabu search algorithm for stroke ordering problem. We regard it as a Traveling Salesman Problem (TSP) and add stroke categories penalty term into the fitness function to improve the accuracy.
+Build a dataset containing 10 different fonts for stroke extraction (Pascal voc 2012 style).
+300 times faster and 4.65% more accurate than the state-of-the-art.
 
-# Header 1
-## Header 2
-### Header 3
+### Awards
+1、National Scholarship (twice, 2014--2015&2015--2016)
+2、Tanglixin Scholarship (60 people per year, 2016--2020)
+3、Undergraduate Electronic Design Contest, the Second Prize (international)
+### Contact
 
-- Bulleted
-- List
+wangwenguang at pku dot edu dot cn
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wang-wg/wang-wg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
