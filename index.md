@@ -25,7 +25,9 @@ Build a dataset containing 10 different fonts for stroke extraction (Pascal voc 
 
 ### Awards
 1、National Scholarship (twice, 2014--2015&2015--2016)
+
 2、Tanglixin Scholarship (60 people per year, 2016--2020)
+
 3、Undergraduate Electronic Design Contest, the Second Prize (international)
 ### Contact
 
