@@ -30,4 +30,4 @@ I’m Wenguang Wang, a Master in the Institute of Computer Science & Technology 
 ### Contact
 wangwenguang at pku dot edu dot cn
 
-
+![IMG_25.jpg](https://github.com/wang-wg/wang-wg.github.io/blob/master/IMG_25.jpg "IMG_25")
